@@ -12,7 +12,8 @@ This is the first Independent class project
 No set up is required for this project, just access the website created.
 
 # Project link
-https://rmwirabua.github.io/Project/Project%20Work/
+https://rmwirabua.github.io/IndependentProject1/
+
 # copyright and license
 ©richard gitonga
 
