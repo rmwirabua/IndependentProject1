@@ -17,4 +17,4 @@ https://rmwirabua.github.io/IndependentProject1/
 # copyright and license
 ©richard gitonga
 
-# version 1.0
+# version 1.1
